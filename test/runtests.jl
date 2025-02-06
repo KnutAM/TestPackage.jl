@@ -1,6 +1,7 @@
 using TestPackage
 using Test
+using TestPackageTestUtils
 
 @testset "TestPackage.jl" begin
-    # Write your tests here.
+    @test test_foo() == 1
 end

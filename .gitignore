@@ -2,6 +2,5 @@
 *.jl.cov
 *.jl.mem
 *.vscode
-/Manifest.toml
-/docs/Manifest.toml
+*Manifest.toml
 /docs/build/
